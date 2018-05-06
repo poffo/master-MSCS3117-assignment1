@@ -1,1 +1,7 @@
 File to describe the details related to the first assignment.
+
+# Impressions
+
+Tensorflow allows us to build the whole application without running it, making it possible to apply some optimizations on the tensors for performance optimization.
+
+
